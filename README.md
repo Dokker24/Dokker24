@@ -9,6 +9,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dokker24)](https://github.com/Dokker24/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dokker24)](https://git.io/streak-stats)
 
+My stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokker24)](https://github.com/Dokker24/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dokker24&theme=solarized_dark)
@@ -21,4 +23,5 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dokker24&theme=solarized_dark)
 
+joke at the end😁:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
