@@ -9,7 +9,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dokker24)](https://github.com/Dokker24/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dokker24)](https://git.io/streak-stats)
 
-My stats:
+ # My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokker24)](https://github.com/Dokker24/github-readme-stats)
 
